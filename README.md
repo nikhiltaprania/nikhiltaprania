@@ -2,7 +2,7 @@
 
 I'm a passionate and dedicated fresher in the field of software development. I have a strong interest in backend development and enjoy creating efficient and scalable solutions. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
 
-## About Me
+## 💫 About Me
 
 I recently completed my education in [Computer Science/Software Engineering] and I'm excited to kickstart my career as a software developer. I'm eager to learn and grow, and I thrive in collaborative environments where I can contribute my skills and bring innovative ideas to life.
 
@@ -12,20 +12,24 @@ I recently completed my education in [Computer Science/Software Engineering] and
 
 🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-003143281/) to stay updated with my professional journey.
 
-## Portfolio
+## 🌐 Portfolio
 
 Check out my portfolio website [here](https://nikhiltaprania.github.io/) to see my projects, skills, and experiences. It's deployed on GitHub Pages, allowing you to explore my work in detail.
 
-## Tech Stack
+
+# 💻 Tech Stack:
 
 Here are the technologies I'm familiar with:
 
-- Programming Languages: Java
-- Frontend Development: HTML, CSS
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
-## GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nikhiltaprania&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nikhiltaprania&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Pinned Repositories
 
@@ -66,3 +70,6 @@ Here are some repositories I've starred:
 ## Followers
 
 Thank you to all [50+ followers](https://github.com/nikhiltaprania?tab=followers) who support and inspire me!
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
