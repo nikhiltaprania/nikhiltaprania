@@ -4,7 +4,15 @@ I'm a passionate and dedicated fresher in the field of software development. I h
 
 ## 💫 About Me
 
-I recently completed my education in [Computer Science/Software Engineering] and I'm excited to kickstart my career as a software developer. I'm eager to learn and grow, and I thrive in collaborative environments where I can contribute my skills and bring innovative ideas to life.
+I recently completed my education in Electronics & Communication Engineering and I'm excited to kickstart my career as a software developer. I'm eager to learn and grow, and I thrive in collaborative environments where I can contribute my skills and bring innovative ideas to life.
+
+## Profile Description
+
+I'm a motivated and detail-oriented individual, dedicated to delivering high-quality code and continuously improving my skills. I'm enthusiastic about solving complex problems and developing elegant solutions. With a strong foundation in backend development, I'm ready to take on new challenges and contribute to meaningful projects.
+
+## Address
+
+🏠 [Muzaffarnagar, Uttar Pradesh, India]
 
 ## Contact
 
