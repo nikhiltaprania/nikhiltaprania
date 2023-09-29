@@ -5,7 +5,7 @@ I'm Nikhil Kumar, a passionate Java Developer from Muzaffarnagar, Uttar Pradesh,
 Muzaffarnagar, Uttar Pradesh, India
 
 ## 🌐 Portfolio:
-Check out my portfolio website deployed on GitHub Pages: [Portfolio](https://nikhiltaprania.github.io)
+Check out my portfolio website deployed on GitHub Pages: [Nikhil Kumar](https://nikhiltaprania.github.io)
 
 ## 🚀 Currently Working On:
 I'm currently working on honing my skills in Java Backend Development and exploring new projects to expand my portfolio.
@@ -23,13 +23,13 @@ I'm actively learning and staying updated with the latest trends and technologie
 Feel free to reach out to me if you have any questions about Java, Spring Boot, or if you'd like to discuss technology, programming, or anything else.
 
 ## 😄 Fun Fact:
-Outside of the coding world, I enjoy watching sci-fi movies and have a passion for running. I also come from a close-knit family of four, with my mother as a homemaker, my father as a hardworking professional, and a younger brother who is pursuing a B. Sc degree.
+Outside of the coding world, I enjoy watching sci-fi movies and have a passion for running. I also come from a close-knit family of four.
 
 Thank you for visiting my GitHub profile! 🙌
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-003143281/)
-📧 You can reach out to me via email at [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-003143281/) <br/>
+📧 You can reach out to me via email at [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com). <br/>
 📞 You can reach out to me via phone at +91 9719768185.
 
 # 💻 Tech Stack:
@@ -50,8 +50,8 @@ Thank you for visiting my GitHub profile! 🙌
 ## 🔝 Top Contributed Repo:
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nikhiltaprania&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 😂 Random Dev Meme:
-![Random Dev Meme](https://randommeme-five.vercel.app/)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-![Profile Visitors](https://visitor-badge.laobi.icu/badge?id=nikhiltaprania)
+[![Profile Visitors](https://visitcount.itsvg.in/api?id=nikhiltaprania&icon=0&color=0)](https://visitcount.itsvg.in)
