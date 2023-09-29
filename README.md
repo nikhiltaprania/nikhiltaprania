@@ -1,83 +1,52 @@
-# Hello, I'm [Nikhil Kumar](https://github.com/nikhiltaprania)! 👋
+# 🌟 About Me:
+I'm Nikhil Kumar, a passionate Java Developer from Muzaffarnagar, Uttar Pradesh, with a background in Electronics & Communication Engineering. Currently, I'm dedicated to honing my skills in Java Backend Development and expanding my portfolio with exciting projects.
 
-I'm a passionate and dedicated fresher in the field of software development. I have a strong interest in backend development and enjoy creating efficient and scalable solutions. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+## 📍 Location:
+Muzaffarnagar, Uttar Pradesh, India
 
-## 💫 About Me
+## 🌐 Portfolio:
+Check out my portfolio website deployed on GitHub Pages: [Portfolio](https://nikhiltaprania.github.io)
 
-I recently completed my education in Electronics & Communication Engineering and I'm excited to kickstart my career as a software developer. I'm eager to learn and grow, and I thrive in collaborative environments where I can contribute my skills and bring innovative ideas to life.
+## 🚀 Currently Working On:
+I'm currently working on honing my skills in Java Backend Development and exploring new projects to expand my portfolio.
 
-## Profile Description
+## 👥 Looking to Collaborate On:
+I'm eager to collaborate on open-source projects related to Java, Spring Boot, or any interesting web development projects.
 
-I'm a motivated and detail-oriented individual, dedicated to delivering high-quality code and continuously improving my skills. I'm enthusiastic about solving complex problems and developing elegant solutions. With a strong foundation in backend development, I'm ready to take on new challenges and contribute to meaningful projects.
+## 🆘 Looking for Help With:
+I'm open to receiving guidance and mentorship from experienced developers in the field of Java Backend Development.
 
-## Address
+## 📚 Currently Learning:
+I'm actively learning and staying updated with the latest trends and technologies in Java Backend Development.
 
-🏠 [Muzaffarnagar, Uttar Pradesh, India]
+## 💬 Ask Me About:
+Feel free to reach out to me if you have any questions about Java, Spring Boot, or if you'd like to discuss technology, programming, or anything else.
 
-## Contact
+## 😄 Fun Fact:
+Outside of the coding world, I enjoy watching sci-fi movies and have a passion for running. I also come from a close-knit family of four, with my mother as a homemaker, my father as a hardworking professional, and a younger brother who is pursuing a B. Sc degree.
 
-📫 Feel free to reach out to me via email at [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com) for any inquiries or opportunities.
+Thank you for visiting my GitHub profile! 🙌
 
-🌍 Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-003143281/) to stay updated with my professional journey.
-
-## 🌐 Portfolio
-
-Check out my portfolio website [here](https://nikhiltaprania.github.io/) to see my projects, skills, and experiences. It's deployed on GitHub Pages, allowing you to explore my work in detail.
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-003143281/) 
 
 # 💻 Tech Stack:
-
-Here are the technologies I'm familiar with:
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nikhiltaprania&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nikhiltaprania&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+# 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikhiltaprania&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## Pinned Repositories
+## ✍️ Random Dev Quote:
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-Here are some of my notable projects:
+## 🔝 Top Contributed Repo:
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nikhiltaprania&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-1. [Project 1](https://github.com/nikhiltaprania/green-value-83)
-   - Description: Short description of project 1.
-   - Deployed Link: [Project 1 Demo](https://preeminent-souffle-48a21a.netlify.app/)
-   - Video Link: [Project 1 Demo Video](https://drive.google.com/file/d/1A31Zo1ix2F9fqnmU-D2HfdyyLWDCDqF5/view?usp=sharing)
+## 😂 Random Dev Meme:
+![Random Dev Meme](https://randommeme-five.vercel.app/)
 
-2. [Project 2](https://github.com/Abhishree-codes/devilish-bomb-2241)
-   - Description: Short description of project 2.
-   - Deployed Link: [Project 2 Demo](https://sunny-cucurucho-f788c1.netlify.app/)
-   - Video Link: [Project 2 Demo Video](https://drive.google.com/file/d/1n5HDKCy6ggHbhvs1RF1nUtiZozzo4P6t/view?usp=share_link)
-
-3. [Project 3](https://github.com/nikhiltaprania/changeable-food-3405)
-   - Description: Short description of project 3.
-   - Deployed Link: [Project 3 Demo](https://project-3-demo-url.com)
-   - Video Link: [Project 3 Demo Video](https://drive.google.com/file/d/1Jabff5GAEZIZKIkbaoLLPPlHxxrze3ry/view?usp=sharing)
-
-Make sure to check them out!
-
-## Starred Repositories
-
-Here are some repositories I've starred:
-
-1. [Repo 1](https://github.com/nikhiltaprania/green-value-83)
-2. [Repo 2](https://github.com/nikhiltaprania/changeable-food-3405)
-3. [Repo 3](https://github.com/nikhiltaprania/api_by_nikhil)
-4. [Repo 4](https://github.com/nikhiltaprania/JS101_Learning_Javascript)
-5. [Repo 5](https://github.com/starred-repo-5)
-6. [Repo 6](https://github.com/starred-repo-6)
-7. [Repo 7](https://github.com/starred-repo-7)
-8. [Repo 8](https://github.com/starred-repo-8)
-9. [Repo 9](https://github.com/starred-repo-9)
-10. [Repo 10](https://github.com/starred-repo-10)
-
-## Followers
-
-Thank you to all [50+ followers](https://github.com/nikhiltaprania?tab=followers) who support and inspire me!
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
+![Profile Visitors](https://visitor-badge.laobi.icu/badge?id=nikhiltaprania)
