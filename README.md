@@ -37,7 +37,7 @@ Thank you for visiting my GitHub profile! 🙌
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikhiltaprania&hide_border=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhiltaprania&theme=dark&hide_border=true)](https://git.io/streak-stats)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltaprania&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 🏆 GitHub Trophies:
