@@ -5,7 +5,7 @@ I'm Nikhil Kumar, a passionate Java Developer from Muzaffarnagar, Uttar Pradesh,
 Muzaffarnagar, Uttar Pradesh, India
 
 ## 🌐 Portfolio:
-Check out my portfolio website deployed on GitHub Pages: [Nikhil Kumar](https://nikhiltaprania.github.io)
+Visit my portfolio: [Nikhil Kumar](https://nikhiltaprania.github.io)
 
 ## 🚀 Currently Working On:
 I'm currently working on honing my skills in Java Backend Development and exploring new projects to expand my portfolio.
@@ -28,7 +28,7 @@ Outside of the coding world, I enjoy watching sci-fi movies and have a passion f
 Thank you for visiting my GitHub profile! 🙌
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-003143281/) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-5bb7a52b9/) <br/>
 📧 You can reach out to me via email at [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com). <br/>
 📞 You can reach out to me via phone at +91 9719768185.
 
