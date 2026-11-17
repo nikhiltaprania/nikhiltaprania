@@ -13,8 +13,8 @@ Java development.
 |---|---|---|
 | [**digital-wallet**](https://github.com/nikhiltaprania/digital-wallet) | Digital wallet and payment platform built around an immutable double-entry ledger: 7 Spring Boot services, idempotent transfers, a payment saga with compensation, and a transactional outbox over Kafka. | Spring Boot, Kafka, PostgreSQL, MongoDB, Resilience4j, Docker Compose, Testcontainers |
 | [**prepr**](https://github.com/nikhiltaprania/prepr) | AI interview coaching platform: LLM-driven mock interviews, async answer evaluation and reports, and RAG question-answering over uploaded documents. | Spring Boot, Spring AI, PostgreSQL + PGVector, Redis, Docker |
-| [**sunbase-assignment**](https://github.com/nikhiltaprania/sunbase-assignment) | Customer management web app with JWT authentication, customer CRUD, search, pagination and sync with an external API. | Spring Boot, Spring Security, JPA, MySQL |
-| [**code-genius**](https://github.com/nikhiltaprania/code-genius) | Interview practice platform for Java, JavaScript and Python with an admin area for user management. | Spring Boot, Spring Security, MySQL, Thymeleaf |
+| [**sturdy-engine**](https://github.com/nikhiltaprania/sturdy-engine) | Book store web application with user and admin roles: browse books, cart, orders and selling books for users; admins manage users, books and orders. | Spring Core, Servlets, JDBC, JSP, MySQL, Bootstrap |
+| [**devilish-bomb-2241**](https://github.com/nikhiltaprania/devilish-bomb-2241) | TakeATrip, a team travel-booking website (forked from a teammate's repo): hotel listing with search, price sorting and pagination, user login with an OTP screen, and an admin page. | HTML, CSS, JavaScript, json-server API |
 
 ## Skills
 
