@@ -1,56 +1,28 @@
-# 🌟 About Me:
-I'm Nikhil Kumar, a passionate Java Developer from Muzaffarnagar, Uttar Pradesh, with a background in Electronics & Communication Engineering. Currently, I'm dedicated to honing my skills in Java Backend Development and expanding my portfolio with exciting projects.
+# Nikhil Kumar
 
-## 📍 Location:
-Muzaffarnagar, Uttar Pradesh, India
+**Java Backend Developer** — Spring Boot, REST APIs, microservices and event-driven systems.
 
-## 🌐 Portfolio:
-Visit my portfolio: [Nikhil Kumar](https://nikhiltaprania.github.io)
+I build backend services with Java and the Spring ecosystem: secure APIs (JWT / OAuth2), relational data
+modelling, asynchronous processing and containerised deployments. Background in Electronics & Communication
+Engineering (B.Tech), followed by Full Stack Web Development at Masai School and about two years of professional
+Java development.
 
-## 🚀 Currently Working On:
-I'm currently working on honing my skills in Java Backend Development and exploring new projects to expand my portfolio.
+## Featured projects
 
-## 👥 Looking to Collaborate On:
-I'm eager to collaborate on open-source projects related to Java, Spring Boot, or any interesting web development projects.
+| Project | What it is | Stack |
+|---|---|---|
+| [**digital-wallet**](https://github.com/nikhiltaprania/digital-wallet) | Digital wallet and payment platform built around an immutable double-entry ledger: 7 Spring Boot services, idempotent transfers, a payment saga with compensation, and a transactional outbox over Kafka. | Spring Boot, Kafka, PostgreSQL, MongoDB, Resilience4j, Docker Compose, Testcontainers |
+| [**prepr**](https://github.com/nikhiltaprania/prepr) | AI interview coaching platform: LLM-driven mock interviews, async answer evaluation and reports, and RAG question-answering over uploaded documents. | Spring Boot, Spring AI, PostgreSQL + PGVector, Redis, Docker |
+| [**sunbase-assignment**](https://github.com/nikhiltaprania/sunbase-assignment) | Customer management web app with JWT authentication, customer CRUD, search, pagination and sync with an external API. | Spring Boot, Spring Security, JPA, MySQL |
+| [**code-genius**](https://github.com/nikhiltaprania/code-genius) | Interview practice platform for Java, JavaScript and Python with an admin area for user management. | Spring Boot, Spring Security, MySQL, Thymeleaf |
 
-## 🆘 Looking for Help With:
-I'm open to receiving guidance and mentorship from experienced developers in the field of Java Backend Development.
+## Skills
 
-## 📚 Currently Learning:
-I'm actively learning and staying updated with the latest trends and technologies in Java Backend Development.
+- **Languages:** Java, SQL, JavaScript
+- **Backend:** Spring Boot, Spring Security, Spring Data JPA / Hibernate, REST APIs, JWT, OAuth2, Apache Kafka, microservices
+- **Data:** PostgreSQL, MySQL, MongoDB, Redis, PGVector, Flyway
+- **Tools:** Git, Maven, Docker, Testcontainers, GitHub Actions
 
-## 💬 Ask Me About:
-Feel free to reach out to me if you have any questions about Java, Spring Boot, or if you'd like to discuss technology, programming, or anything else.
+## Contact
 
-## 😄 Fun Fact:
-Outside of the coding world, I enjoy watching sci-fi movies and have a passion for running. I also come from a close-knit family of four.
-
-Thank you for visiting my GitHub profile! 🙌
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kumar-5bb7a52b9/) <br/>
-📧 You can reach out to me via email at [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com). <br/>
-📞 You can reach out to me via phone at +91 9719768185.
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-# 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nikhiltaprania&theme=dark&show_icons=true&hide_border=false&count_private=true)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikhiltaprania&theme=dark&hide_border=false)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiltaprania&theme=dark&show_icons=true&hide_border=false&layout=compact)
-
-# 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nikhiltaprania&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## ✍️ Random Dev Quote:
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 🔝 Top Contributed Repo:
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=nikhiltaprania&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![Profile Visitors](https://visitcount.itsvg.in/api?id=nikhiltaprania&icon=0&color=0)](https://visitcount.itsvg.in)
+[Portfolio](https://nikhiltaprania.github.io) · [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-5bb7a52b9/) · [LeetCode](https://leetcode.com/u/nikhiltaprania/) · [nikhiltaprania@gmail.com](mailto:nikhiltaprania@gmail.com)
